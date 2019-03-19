@@ -23,7 +23,9 @@
   },
   "homepage": "https://github.com/yaotzin1/lcloud-427-pw#readme",
   "dependencies": {
+    "args": "^5.0.1",
     "aws-sdk": "^2.423.0",
-    "dotenv": "^7.0.0"
+    "dotenv": "^7.0.0",
+    "minimist": "^1.2.0"
   }
 }
