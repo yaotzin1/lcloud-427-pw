@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/yaotzin1/lcloud-427-pw/issues"
   },
-  "homepage": "https://github.com/yaotzin1/lcloud-427-pw#readme"
+  "homepage": "https://github.com/yaotzin1/lcloud-427-pw#readme",
+  "dependencies": {
+    "aws-sdk": "^2.423.0",
+    "dotenv": "^7.0.0"
+  }
 }
