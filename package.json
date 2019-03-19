@@ -1,0 +1,25 @@
+{
+  "name": "lcloud-427-pw",
+  "version": "1.0.0",
+  "description": "CLI client for bitbucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaotzin1/lcloud-427-pw.git"
+  },
+  "keywords": [
+    "bucket",
+    "lcloud",
+    "s3",
+    "amazon"
+  ],
+  "author": "psw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaotzin1/lcloud-427-pw/issues"
+  },
+  "homepage": "https://github.com/yaotzin1/lcloud-427-pw#readme"
+}
